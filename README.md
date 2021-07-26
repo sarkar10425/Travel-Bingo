@@ -65,3 +65,18 @@ I implemented dynamic functionality such as fetching Cities, Adventures, Adventu
 ### Database:
     * MongoDB
 
+
+### Get Started
+##### NodeJS Development Server
+```
+git clone https://github.com/sarkar10425/Travel-Bingo.git    
+cd xmemes 
+npm install
+npm start
+```  
+
+##### Frontend Live Server
+```
+Select index.html
+Start with Live Server
+```
