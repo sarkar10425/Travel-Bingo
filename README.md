@@ -50,7 +50,7 @@ I implemented dynamic functionality such as fetching Cities, Adventures, Adventu
 
 
 ### Data Model
-
+<hr></hr>
 <img src="./tb6.png" width="900"/>
  
 
